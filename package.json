@@ -10,6 +10,6 @@
 "dependencies": {
 "express": "^4.19.2",
 "sonolus-core": "7.4.1",
-"sonolus-express": "^7.4.0"
+"sonolus-express": "7.4.0"
 }
 }
