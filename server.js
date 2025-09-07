@@ -1,7 +1,7 @@
-// Import required modules
-const express = require('express');
-const { Sonolus } = require('sonolus-express');
-const { sonolus } = require('sonolus-core');
+// Import required modules using ES module syntax.
+import express from 'express';
+import { Sonolus } from 'sonolus-express';
+import { sonolus } from 'sonolus-core';
 
 // Create the Express app and a Sonolus server instance.
 const app = express();
