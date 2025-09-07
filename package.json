@@ -1,5 +1,5 @@
 {
-"name": "Sonolus Charts Demo",
+"name": "sonolus-server",
 "version": "1.0.0",
 "description": "A Sonolus server using sonolus-express.",
 "main": "server.js",
@@ -9,7 +9,7 @@
 },
 "dependencies": {
 "express": "^4.19.2",
-"sonolus-core": "^7.14.0",
+"sonolus-core": "7.4.1",
 "sonolus-express": "^7.4.0"
 }
 }
